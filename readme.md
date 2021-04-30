@@ -1,9 +1,8 @@
-![title](https://user-images.githubusercontent.com/6534441/116696039-a8c1fd80-a9c1-11eb-856f-8be31f3999ae.png)
 
 Not maintained, stored here for preservation.
 
 It is an small project for creating font atlases images.
-Mainly done when trying out the Ultimate++ Framework
+Mainly done when trying out the Ultimate++ Framework (https://www.ultimatepp.org/)
 
 not finished but still funny to see in action.
 

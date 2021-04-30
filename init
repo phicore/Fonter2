@@ -1,0 +1,6 @@
+#ifndef _Fonter2_icpp_init_stub
+#define _Fonter2_icpp_init_stub
+#include "CtrlLib/init"
+#include "Painter/init"
+#include "Theme/init"
+#endif

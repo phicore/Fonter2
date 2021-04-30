@@ -1,0 +1,18 @@
+description "My attemp to a bitmap font generation tool\377";
+
+uses
+	CtrlLib,
+	Painter,
+	Theme;
+
+file
+	Fonter2.h,
+	src.tpp,
+	main.cpp,
+	Fonter2.lay;
+
+mainconfig
+	"" = "GUI",
+	"" = "GUI SSE2",
+	"" = "GUI .NOGTK";
+

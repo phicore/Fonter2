@@ -4,7 +4,7 @@ Not maintained, stored here for preservation.
 It is an small project for creating font atlases images.
 Mainly done when trying out the Ultimate++ Framework (https://www.ultimatepp.org/)
 
-not finished but still funny to see in action.
+Not finished but it is still funny to see it in action.
 
 The code is really tiny for great outputs. U++ Rules.
 
